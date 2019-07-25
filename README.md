@@ -7,9 +7,10 @@ I'm teaching myself Java and used the following three small apps to familiarize 
 Inspired by an [article by Sam Fare](https://medium.com/@samuel.fare/want-to-learn-any-programming-language-write-these-3-simple-apps-5af8cd119921).
 
 ## Status:
+* Release - Everything works!
 * HelloWorld - complete
 * Anagram - complete
-* Pizza - still working on it
+* Pizza - complete
 
 ## Languages/Frameworks used:
 * Java
